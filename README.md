@@ -26,7 +26,7 @@ or
 
 python3 -m http.server
 ```
-4. Open your web browser and navigate to <http://localhost:8080>. You should see a video stream from your webcam, and the pitch, yaw, and roll angles should be displayed on the screen.
+4. Open your web browser and navigate to localhost. You should see a video stream from your webcam, and the pitch, yaw, and roll angles should be displayed on the screen along with the emotion displaued adjacted to a bounding box for the detected face.
 
 How It Works
 ------------
