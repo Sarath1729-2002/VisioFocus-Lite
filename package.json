@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@mjyc/opencv.js": "^1.0.0"
+  }
+}
