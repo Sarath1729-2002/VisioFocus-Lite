@@ -21,7 +21,10 @@ git clone https://github.com/Sarath1729-2002/VisioFocus-Lite.git
 2. Start the server ; use either node package manager or a Python Simple HTTP server :
 ```
 npm start
-python2 -m http.server
+
+or
+
+python3 -m http.server
 ```
 4. Open your web browser and navigate to <http://localhost:8080>. You should see a video stream from your webcam, and the pitch, yaw, and roll angles should be displayed on the screen.
 
